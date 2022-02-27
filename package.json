@@ -1,0 +1,15 @@
+{
+  "name": "rsa-keypair",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yhl125/rsa-keypair.git",
+  "author": "Yoonhyoung-Lee <54613623+Yoonhyoung-Lee@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "keypair": "^1.0.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+
+}
